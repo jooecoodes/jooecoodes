@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 💬 Ask me about **coding,theology,music, and chess**
+- 💬 Ask me about **coding,theology,music,chess and IT stuffs**
 
 - 📫 How to reach me **jefeljoevillacorta@gmail.com**
 
