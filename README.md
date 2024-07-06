@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jooecoodes&label=Profile%20views&color=0e75b6&style=flat" alt="jooecoodes" /> </p>
 
-- 🌱 I’m currently learning **Hybrid Mobile Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **coding,theology,music,chess and IT stuffs**
 
