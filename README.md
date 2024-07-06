@@ -2,12 +2,12 @@
     <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Descriptive Text for the GIF" width="100%" />
 </div>
 <h1 align="center">Hi 👋, I'm Joe</h1>
-<h3 align="center">A passionate Web Developer from the Philippines</h3>
+<h3 align="center">A passionate Developer from the Philippines</h3>
 <img align="right" alt="Coffee" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jooecoodes&label=Profile%20views&color=0e75b6&style=flat" alt="jooecoodes" /> </p>
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Hybrid Mobile Development**
 
 - 💬 Ask me about **coding,theology,music,chess and IT stuffs**
 
