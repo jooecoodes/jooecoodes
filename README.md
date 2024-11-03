@@ -1,6 +1,6 @@
 Hi there, I'm Joe!
-## About Me
- 🐱🧑‍💻 </br>
+## ✨
+✝️🐱🧑‍💻📚🔍</br>
 Jeremiah 29:11
 ## 🛠️
 <img src="https://img.shields.io/badge/ChatGPT-00A400?style=for-the-badge"></img>
